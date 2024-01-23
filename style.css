@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+}
+button{
+    height: 100 px;
+    
+
+}
+
+.reset{
+    width: 230px;
+    background-color: rgb(240, 241, 194);
+    margin: 50px ;
+    margin-top: 230px;
+    padding: 50px;
+    color: white;
+    font-size:x-large;
+    position: absolute; top: 0; right: 0;    
+}
+.rock{
+    width: 230px;
+    background-color: lightblue;
+    margin: 50px ;
+    padding: 50px;
+    padding-left: 75px;
+    color: white;
+    font-size:x-large;
+    display: flex;
+    flex-direction:left;
+}
+.paper{
+    width: 230px;
+    background-color: pink;
+    margin: 50px ;
+    padding: 50px;
+    padding-left: 75px;
+    color: white;
+    font-size:x-large;
+    display: flex;
+    flex-direction:left;
+}
+.scissors{
+    width: 230px;
+    background-color: lightblue;
+    margin: 50px ;
+    padding: 50px;
+    color: white;
+    font-size:x-large;
+    display: flex;
+    flex-direction:left;
+}
